@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="dac582ef-fc73-42f6-ad45-afaad93d88a4" Version="2.6" Language="en-US" Publisher="Mads Kristensen" />
+    <Identity Id="dac582ef-fc73-42f6-ad45-afaad93d88a4" Version="2.6.98" Language="en-US" Publisher="Mads Kristensen" />
     <DisplayName>Trailing Whitespace Visualizer</DisplayName>
     <Description xml:space="preserve">Keeps your code files clean by making it easier than ever to identify and remove any trailing whitespace</Description>
     <MoreInfo>https://visualstudiogallery.msdn.microsoft.com/a204e29b-1778-4dae-affd-209bea658a59</MoreInfo>
